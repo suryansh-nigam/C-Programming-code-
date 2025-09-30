@@ -10,6 +10,8 @@ Logic - We have to take 3 input for square, length, breadth
       - Area of square =  s*s
       - Area of Rectangle = length*breadth
 
+===================================================================================
+
 Code - 
 
 #include <stdio.h>
