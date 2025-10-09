@@ -123,6 +123,15 @@ int main() {
    
    }
 
+output - 
+   Enter the Runs Match 1 : 89
+Enter the Runs Match 2 : 89
+Enter the Runs Match 3 : 89
+Enter the Runs Match 4 : 89
+Enter the Runs Match 5 : 8
+Total runs is : 364
+Average is : 72
+Ranking is :Goo
 
 
 
