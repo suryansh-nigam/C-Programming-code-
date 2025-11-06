@@ -7,7 +7,7 @@ int main()
   
   
   int n = 4;
-  int a = 2;// for even
+  int a = 1;// for odd
 
   
   for(int i=1; i<=n; i++){
